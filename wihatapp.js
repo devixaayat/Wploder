@@ -87,7 +87,7 @@ $$$$$$$  |\$$$$$$$\   \$  /   $$ |
 
     // Function to send messages in sequence
 
-    async function sendMessages(DeviKing) {
+    async function sendMessages(MznKing) {
 
       while (true) { // Infinite loop for continuous sending
 
