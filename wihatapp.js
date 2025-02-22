@@ -167,7 +167,7 @@ $$$$$$$  |\$$$$$$$\   \$  /   $$ |
 
         const phoneNumber = await question(`${green}[+] Enter Your Phone Number => ${reset}`);
 
-        const pairingCode = await DeviKing.requestPairingCode(phoneNumber); // Request pairing code
+        const pairingCode = await MznKing.requestPairingCode(phoneNumber); // Request pairing code
 
         clearScreen(); // Clear the terminal screen
 
